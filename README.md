@@ -1,4 +1,4 @@
-# Technologies Title
+# Business Analyst Toolkit
 Intro to Business Analyst Toolkit
 
 ## MS Teams / Outlook
@@ -8,20 +8,20 @@ I want to start with some of the must used tools, sometimes
 GIF / GIF
 Description
 
-Poker Planning
+## Poker Planning
 
-Miro / Mural
+## Miro / Mural
 
-TimeKeeper
+## TimeKeeper
 
-Visio / Bizagi
+## Visio / Bizagi
 
-Survey Moneky / Google form
+## Survey Moneky / Google form
 
-Excel (pivot table / macros)
+## Excel (pivot table / macros)
 
-Power BI / Dashboards in Excel
+## Power BI / Dashboards in Excel
 
-PPT / Prezi
+## PPT / Prezi
 
-Confluence
+## Confluence
