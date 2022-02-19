@@ -2,14 +2,13 @@
 Every practice has its own set of tools and Business Analysis (BA) is no exception. Having the right tool is key to successfully complete the task at hand by effiently explore, survey, analyze, understand, share and more! Here are some BA Tools I have learn:
 
 ## MS Teams / Outlook
-These are great for communications and collaborations and I wanted to start with them because these are the must used tools on daily basis. These are great for sharing files with your team members (and anyone basically) and helps you to stay work from anywhere in the world and, at the same time, be in the same page with your team, especially if you are working from home. 
+I wanted to start with these because they are the must used tools on daily basis. These are great for **communication, collaboration, and sharing files** with your team members (and anyone basically); and while working from anywhere in the world stay in the same page with your team. 
 
 ## Jira / Planner
-GIF / GIF
-I have use these two to plan, track and manage projects specially in Agile Methodologies. Planner is a MS Office software for basic initiatives, it's simple and very intuitive. In the other hand, Jira is more complex, personalizable and fully help teams to keep track of epics and user stories.
+I have use these two to **plan, track and manage projects** specially in *Agile Methodologies*. Planner is a MS Office software for basic initiatives, it's simple and very intuitive. In the other hand, Jira is more complex, personalizable and fully help teams to keep track of epics and user stories.
 
-## https://planningpokeronline.com/
-Here you can create "Poker Planning" sessions as Poker games, making them fun, transparent and efficient. Poker planning (also called Scrum Poker) is a technique in Agile Methodology to estimate relative user-stories size, effort or time required to complete it. 
+## PlanningPokerOnline.com/
+Here you can create online **"Poker Planning"** sessions as Poker games, making them fun, transparent and efficient. Poker planning (also called Scrum Poker) is a technique in *Agile Methodology* to estimate relative user-stories size, effort or time required to complete it. 
 
 ## Miro / Mural
 Great for Discoveries and Retrospectives, these visual apps enable team collaboration in a creative enviroment. They have many features and luckly a lot of template had been created for them so you can have great experience with a few twitchs.
