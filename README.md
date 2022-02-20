@@ -6,7 +6,7 @@ I wanted to start with these because they are the must used tools on daily basis
 
 <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Teams.gif" width="50%"/> <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Outlook.gif" width="50%"/>
 
-<p align="center">
+<p align="">
   <img src="hhttps://github.com/robspuerta/Project4_BAToolkit/blob/main/Teams.gif" width="50%">
   <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Outlook.gif" width="50%">
 </p>
