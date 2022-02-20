@@ -20,10 +20,12 @@ Great for Discoveries and Retrospectives, these **visual apps enable team collab
 
 ## MS Office: Timer
 It is a very easy and simple **time managment tool** to use on status meeting, when each participant have a set period of time to present their updates. It is also convenient when practicing for a *"Elevator Pitch"*.
+
 <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Timmer.gif" width="500"/> <img src="hhttps://github.com/robspuerta/Project4_BAToolkit/blob/main/Timmer.gif" width="500"/>
 
 ## Survey Moneky & Google form
 Great for **online surveys** to get insights on product and customer experiences. With a well thought survey you can get structured data for future data-decision making. 
+
 <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Teams.gif" width="500"/> <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Outlook.gif" width="500"/>
 
 ## Visio & Bizagi
@@ -32,6 +34,7 @@ Ideal for **visual representation of processes**, considering activities, techno
 
 ## MS Excel (Pivot tables and VBA Macros)
 The Ms Office and Google solution for **spreadsheet** is definetly another *must have* for a **Business Analyst**. With a great data structure you can create pivot tables. Also automate reports using macros. I have made some of these macros to save time and energy on repetitive tasks, and spend more time examiningg data to find data trends and patterns. 
+
 <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Pivot.gif" width="500"/> <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Macros.gif" width="500"/>
 
 ## Power BI & Excel Dashboards
