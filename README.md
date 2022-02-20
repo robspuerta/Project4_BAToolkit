@@ -27,8 +27,8 @@ The Ms Office and Google solution for **spreadsheet** is definetly another *must
 
 ## Power BI & Excel Dashboards
 These are great for **data visualization and reports**. Power BI is a MS software that, in my opinion, mix the data processing power of SQL and the easy-to-use characteristics of Excel. On the other hand, Excel iis way more intuitive and ideal when your data has lees than 10k events.
-<img src="https://github.com/robspuerta/Project-2-Dashboards---A-life-saving-tool/blob/main/Dashboards%20-%20Robin.gif" width="400"/>
-<img src="https://github.com/robspuerta/Project-2-Dashboards---A-life-saving-tool/blob/main/Dashboards%20-%20Robin.gif" width="400"/>
+<img src="https://github.com/robspuerta/Project-2-Dashboards---A-life-saving-tool/blob/main/Dashboards%20-%20Robin.gif" width="550"/>
+<img src="https://github.com/robspuerta/Project-2-Dashboards---A-life-saving-tool/blob/main/Dashboards%20-%20Robin.gif" width="550"/>
 
 
 ## Power Point & Prezi
