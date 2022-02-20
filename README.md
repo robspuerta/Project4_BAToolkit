@@ -47,7 +47,7 @@ These are great for **data visualization and reports**. Power BI is a MS softwar
 ## Power Point & Prezi
 Great for **presentations**, both had evolved a lot since their beginings. I prefer MS Power Point but can't denied the visual impact that Prezi has on meetings. Like Miro and Mural, these both have many templates available.
 
-<img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Powerpoint.gif" width="500"/> <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Prezi.gif" width="475"/>
+<img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Powerpoint.gif" width="500"/> <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Prezi.gif" width="480"/>
 
 ## Confluence
 Great for **team collaborations**, often linked to Jira. In Confluence you can store all your anlysis and documantion. What I like the most is you can create templates to help you strcuture stories, making sure you are not forgetting anything.
