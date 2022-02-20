@@ -1,7 +1,6 @@
 # Business Analysts Toolkit (“You’re only as good as the tools you use”)
 Every practice has its own set of tools and Business Analysis (BA) is no exception. Having the right tool is key to successfully complete the task at hand by effiently explore, survey, analyze, understand, share and more! Here are some BA Tools I have learn:
 
-
 ## MS Teams & Outlook
 I wanted to start with these because they are the must used tools on daily basis. These are great for **communication, collaboration, and sharing files** with your team members (and anyone basically); and while working from anywhere in the world stay in the same page with your team. 
 
