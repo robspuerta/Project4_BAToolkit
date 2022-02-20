@@ -7,9 +7,9 @@ I wanted to start with these because they are the must used tools on daily basis
 <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Teams.gif" width="50%"/> <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Outlook.gif" width="50%"/>
 
 <p align="center">
-  <img alt="Light" src="hhttps://github.com/robspuerta/Project4_BAToolkit/blob/main/Teams.gif" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Outlook.gif" width="45%">
+  <img src="hhttps://github.com/robspuerta/Project4_BAToolkit/blob/main/Teams.gif" width="50%">
+
+  <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Outlook.gif" width="50%">
 </p>
 
 
