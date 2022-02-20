@@ -4,8 +4,8 @@ Every practice has its own set of tools and Business Analysis (BA) is no excepti
 ## MS Teams & Outlook
 I wanted to start with these because they are the must used tools on daily basis. These are great for **communication, collaboration, and sharing files** with your team members (and anyone basically); and while working from anywhere in the world stay in the same page with your team. 
 
-<img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Teams.gif" width="450"/>
-<img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Outlook.gif" width="450"/>
+<img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Teams.gif" width="50%"/>
+<img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Outlook.gif" width="50%"/>
 
 
 ## Jira & Planner
