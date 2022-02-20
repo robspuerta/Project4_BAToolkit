@@ -9,7 +9,7 @@ I wanted to start with these because they are the must used tools on daily basis
 ## Jira & Planner
 I have use these two to **plan, track and manage projects** specially in [Agile Methodologies](https://www.linkedin.com/pulse/agile-methodology-language-robin-puerta/). Planner is a MS Office software for basic initiatives, it's simple and very intuitive. In the other hand, Jira is more complex, personalizable and fully help teams to keep track of epics and user stories.
 
-<img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Planner.gif" width="500"/> <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Planner.gif" width="500"/>
+<img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Jira.gif" width="500"/> <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Planner.gif" width="500"/>
 
 ## PlanningPokerOnline.com/
 Here you can create online **"Poker Planning"** sessions as Poker games, making them fun, transparent and efficient. Poker planning (also called Scrum Poker) is a technique in [Agile Methodologies](https://www.linkedin.com/pulse/agile-methodology-language-robin-puerta/) to estimate relative user-stories size, effort or time required to complete it. 
@@ -27,7 +27,7 @@ It is a very easy and simple **time managment tool** to use on status meeting, w
 ## Survey Moneky & Google form
 Great for **online surveys** to get insights on product and customer experiences. With a well thought survey you can get structured data for future data-decision making. 
 
-<img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Teams.gif" width="500"/> <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Outlook.gif" width="500"/>
+<img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Surveymonkey.gif" width="500"/> <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Googleform.gif" width="500"/>
 
 ## Visio & Bizagi
 Ideal for **visual representation of processes**, considering activities, technologies and people involved using diagrams. These are a must know for **Business Analyst**. Currently I use BPMN model and looking forward to learn more about UML diagrams. 
@@ -47,12 +47,12 @@ These are great for **data visualization and reports**. Power BI is a MS softwar
 ## Power Point & Prezi
 Great for **presentations**, both had evolved a lot since their beginings. I prefer MS Power Point but can't denied the visual impact that Prezi has on meetings. Like Miro and Mural, these both have many templates available.
 
-<img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Powerpoint.gif" width="500"/> <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Powerpoint.gif" width="500"/>
+<img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Powerpoint.gif" width="500"/> <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Prezi.gif" width="500"/>
 
 ## Confluence
 Great for **team collaborations**, often linked to Jira. In Confluence you can store all your anlysis and documantion. What I like the most is you can create templates to help you strcuture stories, making sure you are not forgetting anything.
 
-<img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Teams.gif" width="500"/> <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Outlook.gif" width="500"/>
+<img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Confluence.gif" width="500"/> 
 
 Let me know in the comments what tools are you familiar with, or if you know more out of these so I can check them out.
 
