@@ -13,7 +13,7 @@ I have use these two to **plan, track and manage projects** specially in [Agile 
 
 ## PlanningPokerOnline.com/
 Here you can create online **"Poker Planning"** sessions as Poker games, making them fun, transparent and efficient. Poker planning (also called Scrum Poker) is a technique in [Agile Methodologies](https://www.linkedin.com/pulse/agile-methodology-language-robin-puerta/) to estimate relative user-stories size, effort or time required to complete it. 
-<img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Teams.gif" width="500"/> <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Outlook.gif" width="500"/>
+<img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Planningpoker.gif" width="500" align="center"/> 
 
 ## Miro & Mural
 Great for Discoveries and Retrospectives, these **visual apps enable team collaboration in a creative enviroment**. They have many features and luckly a lot of template had been created for them so you can have great experience with a few twitchs.
