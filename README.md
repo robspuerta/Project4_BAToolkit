@@ -13,6 +13,7 @@ I have use these two to **plan, track and manage projects** specially in [Agile 
 
 ## PlanningPokerOnline.com/
 Here you can create online **"Poker Planning"** sessions as Poker games, making them fun, transparent and efficient. Poker planning (also called Scrum Poker) is a technique in [Agile Methodologies](https://www.linkedin.com/pulse/agile-methodology-language-robin-puerta/) to estimate relative user-stories size, effort or time required to complete it. 
+
 <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Planningpoker.gif" width="500"/> 
 
 ## Miro & Mural
