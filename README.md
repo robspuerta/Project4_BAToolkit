@@ -13,7 +13,7 @@ I have use these two to **plan, track and manage projects** specially in [Agile 
 
 ## PlanningPokerOnline.com/
 Here you can create online **"Poker Planning"** sessions as Poker games, making them fun, transparent and efficient. Poker planning (also called Scrum Poker) is a technique in [Agile Methodologies](https://www.linkedin.com/pulse/agile-methodology-language-robin-puerta/) to estimate relative user-stories size, effort or time required to complete it. 
-<img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Planningpoker.gif" width="500" align="center"/> 
+<img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Planningpoker.gif" width="500"/> 
 
 ## Miro & Mural
 Great for Discoveries and Retrospectives, these **visual apps enable team collaboration in a creative enviroment**. They have many features and luckly a lot of template had been created for them so you can have great experience with a few twitchs.
@@ -31,7 +31,7 @@ Great for **online surveys** to get insights on product and customer experiences
 
 ## Visio & Bizagi
 Ideal for **visual representation of processes**, considering activities, technologies and people involved using diagrams. These are a must know for **Business Analyst**. Currently I use BPMN model and looking forward to learn more about UML diagrams. 
-<img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Visio.gif" width="500"/> <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Visio.gif" width="500"/>
+<img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Visio.gif" width="500"/> <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Bizagi.gif" width="500"/>
 
 ## MS Excel (Pivot tables and VBA Macros)
 The Ms Office and Google solution for **spreadsheet** is definetly another *must have* for a **Business Analyst**. With a great data structure you can create pivot tables. Also automate reports using macros. I have made some of these macros to save time and energy on repetitive tasks, and spend more time examiningg data to find data trends and patterns. 
