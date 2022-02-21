@@ -17,9 +17,11 @@ Here you can create online **"Poker Planning"** sessions as Poker games, making 
 
 <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Planningpoker.gif" width="500"/> 
 
+<!-- 
 ## Miro & Mural
 Great for Discoveries and Retrospectives, these **visual apps enable team collaboration in a creative enviroment**. They have many features and luckly a lot of template had been created for them so you can have great experience with a few twitchs.
 <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Teams.gif" width="500"/> <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Outlook.gif" width="500"/>
+-->
 
 ## MS Office: Timer
 It is a very easy and simple **time managment tool** to use on status meeting, when each participant have a set period of time to present their updates. It is also convenient when practicing for a *"Elevator Pitch"*.
@@ -40,10 +42,10 @@ The Ms Office and Google solution for **spreadsheet** is definetly another *must
 
 <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Pivot.gif" width="500"/> <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Macros.gif" width="500"/>
 
-## Power BI & Excel Dashboards
+## <!--Power BI & -->Excel Dashboards
 These are great for **data visualization and reports**. Power BI is a MS software that, in my opinion, mix the data processing power of SQL and the easy-to-use characteristics of Excel. On the other hand, Excel iis way more intuitive and ideal when your data has lees than 10k events.
 
-<img src="https://github.com/robspuerta/Project-2-Dashboards---A-life-saving-tool/blob/main/Dashboards%20-%20Robin.gif" width="500"/>
+<!--<img src="https://github.com/robspuerta/Project-2-Dashboards---A-life-saving-tool/blob/main/Dashboards%20-%20Robin.gif" width="500"/>  -->
 <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Dashboards.gif" width="500"/>
 
 ## Power Point & Prezi
