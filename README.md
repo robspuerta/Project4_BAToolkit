@@ -1,4 +1,4 @@
-# Business Analysts Toolkit (“You’re only as good as the tools you use”)
+# Business Analysts Toolkit
 <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Business%20Analyst's%20toolkit%20github%20banner.png"/> 
 
 Every practice has its own set of tools and Business Analysis (BA) is no exception. Having the right tool is key to successfully complete the task at hand by effiently explore, survey, analyze, understand, share and more! Here are some BA Tools I have learn:
