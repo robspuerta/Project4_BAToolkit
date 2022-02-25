@@ -17,10 +17,10 @@ Here you can create online **"Poker Planning"** sessions as Poker games, making 
 
 <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Planningpoker.gif" width="500"/> 
 
-<!-- 
+
 ## Miro & Mural
 Great for Discoveries and Retrospectives, these **visual apps enable team collaboration in a creative enviroment**. They have many features and luckly a lot of template had been created for them so you can have great experience with a few twitchs.
-<img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Teams.gif" width="500"/> <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Outlook.gif" width="500"/>
+<!-- <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Teams.gif" width="500"/> <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Outlook.gif" width="500"/>
 -->
 
 ## MS Office: Timer
