@@ -35,6 +35,7 @@ Great for **online surveys** to get insights on product and customer experiences
 
 ## Visio & Bizagi
 Ideal for a **visual representation of processes**, considering activities, technologies, and people involved using diagrams. These are a must-know for **Business Analysts**. Currently, I use the BPMN model and looking forward to learning more about UML diagrams. 
+
 <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Visio.gif" width="410"/> <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Bizagi.gif" width="410"/>
 
 ## MS Excel (Pivot tables and VBA Macros)
