@@ -6,7 +6,7 @@ Every practice has its own set of tools and Business Analysis (BA) is no excepti
 ## MS Teams & Outlook
 I wanted to start with these because they are the most used tools on daily basis. These are great for **communication, collaboration, and sharing files** with your team members (and anyone basically); and while working from anywhere in the world stay on the same page with your team. 
 
-<img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Teams.gif" width="410"/> <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Outlook.gif" width="410"/>
+<img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Teams.gif" width="420"/> <img src="https://github.com/robspuerta/Project4_BAToolkit/blob/main/Outlook.gif" width="420"/>
 
 ## Jira & Planner
 I have used these two to **plan, track, and manage projects,** especially in [Agile Methodologies](https://www.linkedin.com/pulse/agile-methodology-language-robin-puerta/). Planner is an MS Office software for basic initiatives, it's simple and very intuitive. On the other hand, Jira is more complex, personalizable, and fully helps teams to keep track of epics and user stories.
